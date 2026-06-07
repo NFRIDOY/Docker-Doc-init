@@ -22,3 +22,8 @@
     3. docker ps # List running containers.
     4. docker ps -a # List all containers.
     5. docker run -it --rm <image-name> /bin/bash # Start an interactive shell inside a container.
+
+## Resource 
+
+- [Docker Run](https://docs.docker.com/reference/dockerfile)
+- [Docker Compose](https://docs.docker.com/reference/compose-file)
